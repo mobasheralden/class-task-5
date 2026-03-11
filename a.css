@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(194, 238, 238);
+}
+
+.main1 {
+    background-color: #32353a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+    color: white;
+}
+
+.link1{
+    list-style: none; 
+  display: flex;    
+  gap: 35px;        
+  margin: 0 auto;
+  padding: 0;
+  align-items: center;
+}
+.link1 li a{
+    text-decoration: none;
+    color: #b0b0b0; 
+    font-size: 14px;
+    
+}
+.link1 a:hover{
+    color: rgb(154, 205, 250);
+}
+.cbutton1{
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 20px;
+}
+button:hover{
+    color: rgb(235, 235, 235);
+}
+.main2 {
+    background-color: #32353a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+    color: white;
+    position: relative;
+    top: 200px;
+}
+.logo2{
+    position: relative;
+    left: 1115px;
+}
+.link2{
+    list-style: none; 
+  display: flex;    
+  gap: 35px;        
+  margin: 0 auto;
+  padding: 0;
+  align-items: center;
+  position: relative;
+  right: 500px;
+}
+.link2 li a{
+    text-decoration: none;
+    color: #b0b0b0; 
+    font-size: 14px;
+    
+}
+.link2 a:hover{
+    color: rgb(154, 205, 250);
+}
+.cbutton2{
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 20px;
+    position: relative;
+  right:900px;
+}
+.main3 {
+    background-color: #32353a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+    color: white;
+    position: relative;
+    top: 400px;
+    
+}
+.link3{
+    list-style: none; 
+  display: flex;    
+  gap: 35px;        
+  margin: 0 auto;
+  padding: 0;
+  align-items: center;
+  position: relative;
+  left: 400px;
+}
+.link3 li a{
+    text-decoration: none;
+    color: #b0b0b0; 
+    font-size: 14px;
+    
+}
+.link3 a:hover{
+    color: rgb(154, 205, 250);
+}
+.cbutton3{
+    background-color: aqua;
+    border-radius: 20px;
+    font-size: 20px;
+}
